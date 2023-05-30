@@ -7,7 +7,7 @@ function start() {
 
   var link = "https://binbashbanana.github.io/webretro/index.html"; // link to app webpage\
   var title = "Retro Arch snapshot 23wb6a"; // title shown in navbar\
-  var id = "https://l413.github.io/Clockwork-OS-Custom/2048app.js"; // set this to the url location of your script\
+  var id = "https://luacoder279.github.io/LightHomebrew-Mods/NewBuiltApps/HBRetro/HomeBrewChannel.js"; // set this to the url location of your script\
   
 ////SCRIPT////
   
